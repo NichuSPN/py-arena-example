@@ -1,0 +1,10 @@
+arena @ git+https://github.com/NichuSPN/py-arena.git
+certifi==2024.12.14
+charset-normalizer==3.4.0
+idna==3.10
+Jinja2==3.1.4
+MarkupSafe==3.0.2
+mysql-connector-python==9.1.0
+psycopg2==2.9.10
+requests==2.32.3
+urllib3==2.2.3
